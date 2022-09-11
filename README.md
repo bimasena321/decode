@@ -4,7 +4,7 @@ ini adalah tool decode
 
 # Install tool
 ```bash
-git vlone https://github.com/bimasena321/decode.git
+git clone https://github.com/bimasena321/decode.git
 cd decode
 chmod +x *
 ```
