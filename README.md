@@ -12,3 +12,7 @@ chmod +x *
 ```bash
 python3 decode.py
 ```
+# requirements
+```bash
+pip3 install -r requirements.txt
+```
